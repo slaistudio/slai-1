@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自訂樣式 */
+body {
+  font-family: "Noto Serif TC", serif;
+  background-color: #fefce8;
+  color: #1a1a1a;
+}
