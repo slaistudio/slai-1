@@ -23,7 +23,7 @@ export default function About() {
         從自然語言處理到語音辨識、從智慧客服到自動問答模組，語言，不只是溝通工具，更是串聯人與科技的橋梁。
       </p>
       <p className="leading-8 font-bold  text-center font-size:32">
-        讓語言變得更智慧        也讓服務更貼近人心
+        讓語言變得更智慧    ，    也讓服務更貼近人心
       </p>
     </div>
   );
