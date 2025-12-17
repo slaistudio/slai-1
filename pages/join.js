@@ -16,20 +16,21 @@ export default function Join() {
                 簡語科技工作室是一個自由、專業且具備研究熱誠的團隊，致力於人工智慧的深度探索與的應用實踐，作為新創企業，站在巨人的肩膀上看世界，才能不斷突破，乘科技洪流展翅高飛！
               </p>
               <p className="text-lg leading-relaxed mb-2 text-justify">
-                如果您對語言資料、人工智慧應用有高度熱情，我們將提供薪資、獎金以及國外實地考察的機會！
+                如果您生長於華語系國家並有意願協助我們，我們將為您量身制定無門檻的入門工作！
               </p>
               <p className="text-lg leading-relaxed mb-2 text-justify">
-                運用您的閒暇之餘，協助我們創造訓練素材及市場利潤。
+                只需運用您的閒暇之餘，協助我們涉略華語文學及研究資料，我們將使用於模型訓練。
               </p>
-              <p className="text-lg leading-relaxed mb-4 text-justify">
-                運用您的社交人脈，協助我們涉略華語文學及研究資料。
+               <p className="text-lg leading-relaxed mb-2 text-justify">
+                除按次計酬外，也提供國外實地考察的機會！
               </p>
+
 <p className="text-lg mt-4">
   歡迎透過 <strong>slai.tecstudio@gmail.com</strong> 或是點擊{' '}
   <Link href="/apply" className="text-[#7e441f] underline hover:scale-105 hover:font-semibold transition">
     這裡
   </Link>{' '}
-  聯絡我們，將有專員與您聯繫，期待您的來信！
+  填寫表單，將有專員與您聯繫，期待您的加入！
 </p>
             </>
           )
