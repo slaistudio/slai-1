@@ -2,9 +2,11 @@
 @tailwind components;
 @tailwind utilities;
 
-/* 自訂樣式 */
-body {
-  font-family: "Noto Serif TC", serif;
-  background-color: #fefce8;
-  color: #1a1a1a;
+/* SEO 隱藏語意內容（Google 可讀，使用者不可見） */
+.seo-content {
+  position: absolute;
+  left: -9999px;
+  width: 1px;
+  height: 1px;
+  overflow: hidden;
 }
